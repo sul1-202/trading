@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
       </div>
       <div className="flex items-center gap-6 text-sm text-gray-700">
         <a href="#" className="hover:text-blue-600">
-          Signup
+          Signup 
         </a>
         <a href="#" className="hover:text-blue-600">
           About
